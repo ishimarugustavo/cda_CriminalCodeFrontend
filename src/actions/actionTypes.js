@@ -1,0 +1,19 @@
+// User
+export const GET_USER = "GET_USER";
+export const GET_ALL_USER = "GET_ALL_USER";
+export const CREATE_USER = "CREATE_USER";
+export const LOGIN_USER = "LOGIN_USER";
+// Status
+export const GET_STATUS = "GET_STATUS";
+export const GET_ALL_STATUS = "GET_ALL_STATUS";
+export const CREATE_STATUS = "CREATE_STATUS";
+export const UPDATE_STATUS = "UPDATE_STATUS";
+export const DELETE_STATUS = "DELETE_STATUS";
+// CriminalCode
+export const GET_CRIMINALCODE = "GET_CRIMINALCODE";
+export const GET_ALL_CRIMINALCODE = "GET_ALL_CRIMINALCODE";
+export const CREATE_CRIMINALCODE = "CREATE_CRIMINALCODE";
+export const UPDATE_CRIMINALCODE = "UPDATE_CRIMINALCODE";
+export const DELETE_CRIMINALCODE = "DELETE_CRIMINALCODE";
+// Common
+export const APP_LOAD = "APP_LOAD";
