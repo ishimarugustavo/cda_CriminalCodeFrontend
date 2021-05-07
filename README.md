@@ -8,8 +8,6 @@ npm install
 yarn install
 ```
 
-or
-
 ### Startar ambiente
 
 ```
